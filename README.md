@@ -6,7 +6,11 @@
 ```sh
 git clone https://github.com/subhm2004/WiseWallet.git
 
+cd WiseWallet
+```
+```sh
 git clone https://github.com/dahiyasidd/WiseWallet.git
+
 cd WiseWallet
 ```
 
