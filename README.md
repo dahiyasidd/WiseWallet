@@ -5,6 +5,8 @@
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/subhm2004/WiseWallet.git
+
+git clone https://github.com/dahiyasidd/WiseWallet.git
 cd WiseWallet
 ```
 
