@@ -8,6 +8,7 @@ git clone https://github.com/subhm2004/WiseWallet.git
 
 cd WiseWallet
 ```
+or 
 ```sh
 git clone https://github.com/dahiyasidd/WiseWallet.git
 
